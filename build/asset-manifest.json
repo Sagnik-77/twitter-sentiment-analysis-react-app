@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/twitter-sentiment-analysis-react/static/css/main.e05a83df.css",
+    "main.js": "/twitter-sentiment-analysis-react/static/js/main.8278b03d.js",
+    "static/js/787.a977dee3.chunk.js": "/twitter-sentiment-analysis-react/static/js/787.a977dee3.chunk.js",
+    "index.html": "/twitter-sentiment-analysis-react/index.html",
+    "main.e05a83df.css.map": "/twitter-sentiment-analysis-react/static/css/main.e05a83df.css.map",
+    "main.8278b03d.js.map": "/twitter-sentiment-analysis-react/static/js/main.8278b03d.js.map",
+    "787.a977dee3.chunk.js.map": "/twitter-sentiment-analysis-react/static/js/787.a977dee3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e05a83df.css",
+    "static/js/main.8278b03d.js"
+  ]
+}
